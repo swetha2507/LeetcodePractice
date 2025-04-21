@@ -8,8 +8,6 @@ To build strong problem-solving muscles and keep my DSA skills sharp, I'm solvin
 
 ---
 
-### 📌 Currently Following: [AlgoMaster DSA Patterns](https://algomaster.io/practice/dsa-patterns)
-
 ### ✍️ Languages Used
 
 - 🐍 Python (primary)
